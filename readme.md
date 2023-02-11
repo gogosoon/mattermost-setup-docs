@@ -1,4 +1,4 @@
-# Install Mattermost Production - step by step full commands
+# Install Mattermost on Ubuntu - step by step full commands
 
 In this documentation, we will be installing mattermost step by step.
 
