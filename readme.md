@@ -67,7 +67,7 @@ In the file find for `DriverName` and `DataSource` and update like to MySQL with
 
 ```
 "DriverName": "mysql",
-"DataSource": "root:password@tcp(localhost:3306)/mattermost?charset=utf8mb4,utf8&writeTimeout=30s
+"DataSource": "root:password@tcp(localhost:3306)/mattermost?charset=utf8mb4,utf8&writeTimeout=30s"
         
 ```
 ### Create DB in MySQL
